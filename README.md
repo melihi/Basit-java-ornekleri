@@ -1,2 +1,2 @@
 # Basit-java-ornekleri
-Simple examples for beginners.
+Simple JAVA examples for beginners.
